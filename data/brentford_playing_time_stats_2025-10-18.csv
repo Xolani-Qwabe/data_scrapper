@@ -1,0 +1,29 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Starts,Starts,Starts,Subs,Subs,Subs,Team Success,Team Success,Team Success,Team Success,Team Success,Team Success,Team Success (xG),Team Success (xG),Team Success (xG),Team Success (xG),Team Success (xG),Unnamed: 26_level_0
+Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+Nathan Collins,ie IRL,DF,24-171,7,630.0,90.0,100.0,7.0,7,90.0,7,0,,0,1.0,9.0,12.0,-3.0,-0.43,,8.4,9.6,-1.2,-0.18,,Matches
+Sepp van den Berg,nl NED,DF,23-302,7,630.0,90.0,100.0,7.0,7,90.0,7,0,,0,1.0,9.0,12.0,-3.0,-0.43,,8.4,9.6,-1.2,-0.18,,Matches
+Caoimhín Kelleher,ie IRL,GK,26-329,7,630.0,90.0,100.0,7.0,7,90.0,7,0,,0,1.0,9.0,12.0,-3.0,-0.43,,8.4,9.6,-1.2,-0.18,,Matches
+Michael Kayode,it ITA,DF,21-100,7,616.0,88.0,97.8,6.8,7,88.0,5,0,,0,1.0,8.0,11.0,-3.0,-0.44,-0.44,7.7,9.4,-1.7,-0.25,-3.2,Matches
+Yehor Yarmoliuk,ua UKR,MF,21-231,7,601.0,86.0,95.4,6.7,7,86.0,5,0,,0,1.0,9.0,12.0,-3.0,-0.45,-0.45,8.2,9.4,-1.1,-0.17,0.13,Matches
+Thiago,br BRA,FW,24-114,7,562.0,80.0,89.2,6.2,7,80.0,3,0,,0,1.0,7.0,11.0,-4.0,-0.64,-1.96,7.2,9.0,-1.8,-0.29,-1.08,Matches
+Kevin Schade,de GER,FW,23-325,7,572.0,82.0,90.8,6.4,6,88.0,4,1,45.0,0,1.0,9.0,8.0,1.0,0.16,6.36,8.1,7.8,0.2,0.04,2.33,Matches
+Jordan Henderson,eng ENG,MF,35-123,7,476.0,68.0,75.6,5.3,6,76.0,1,1,22.0,0,1.0,7.0,7.0,0.0,0.0,1.75,7.2,6.1,1.0,0.19,1.5,Matches
+Mikkel Damsgaard,dk DEN,MF,25-107,5,413.0,83.0,65.6,4.6,5,83.0,2,0,,0,1.2,5.0,7.0,-2.0,-0.44,-0.02,5.3,6.3,-1.0,-0.22,-0.12,Matches
+Keane Lewis-Potter,eng ENG,"DF,FW",24-238,6,399.0,67.0,63.3,4.4,5,77.0,1,1,16.0,1,1.17,4.0,8.0,-4.0,-0.9,-1.29,4.0,6.7,-2.7,-0.6,-1.15,Matches
+Dango Ouattara,bf BFA,FW,23-249,6,314.0,52.0,49.8,3.5,3,82.0,1,3,22.0,0,1.17,5.0,4.0,1.0,0.29,1.43,5.2,4.1,1.0,0.3,0.94,Matches
+Aaron Hickey,sct SCO,DF,23-130,5,187.0,37.0,29.7,2.1,2,82.0,1,3,8.0,2,1.4,3.0,3.0,0.0,0.0,0.61,3.1,2.2,0.9,0.42,0.85,Matches
+Mathias Jensen,dk DEN,MF,29-290,5,176.0,35.0,27.9,2.0,2,70.0,0,3,12.0,2,1.4,2.0,4.0,-2.0,-1.02,-0.82,1.3,2.9,-1.6,-0.83,-0.91,Matches
+Ethan Pinnock,jm JAM,DF,32-142,2,155.0,78.0,24.6,1.7,2,78.0,0,0,,3,0.5,2.0,4.0,-2.0,-1.16,-0.97,1.1,2.1,-0.9,-0.54,-0.48,Matches
+Rico Henry,eng ENG,DF,28-102,6,172.0,29.0,27.3,1.9,1,87.0,0,5,17.0,1,1.17,4.0,6.0,-2.0,-1.05,-0.85,2.8,4.5,-1.7,-0.87,-0.96,Matches
+Kristoffer Ajer,no NOR,DF,27-184,4,120.0,30.0,19.0,1.3,1,89.0,0,3,10.0,3,1.0,1.0,2.0,-1.0,-0.75,-0.4,1.6,1.0,0.5,0.4,0.72,Matches
+Fabio Carvalho,pt POR,"FW,MF",23-049,5,97.0,19.0,15.4,1.1,1,90.0,1,4,2.0,1,0.2,2.0,4.0,-2.0,-1.86,-1.69,2.1,2.0,0.1,0.1,0.32,Matches
+Antoni Milambo,nl NED,MF,20-198,1,45.0,45.0,7.1,0.5,1,45.0,0,0,,3,0.0,0.0,3.0,-3.0,-6.0,-6.0,0.3,1.4,-1.1,-2.22,-2.2,Matches
+Frank Onyeka,ng NGA,MF,27-290,5,91.0,18.0,14.4,1.0,0,,0,5,18.0,2,1.2,3.0,2.0,1.0,0.99,1.66,1.5,1.6,-0.1,-0.14,0.05,Matches
+Vitaly Janelt,de GER,MF,27-161,3,44.0,15.0,7.0,0.5,0,,0,3,15.0,1,1.0,1.0,0.0,1.0,2.05,2.66,0.4,0.3,0.1,0.27,0.48,Matches
+Benjamin Arthur,eng ENG,DF,20-009,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+Reiss Nelson,eng ENG,"FW,MF",25-312,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+Myles Peart-Harris,eng ENG,MF,23-030,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+Mads Roerslev,dk DEN,"DF,MF",26-116,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+Hákon Valdimarsson,is ISL,GK,24-005,0,,,,,0,,0,0,,7,,,,,,,,,,,,Matches
+Squad Total,,,25.3,7,630.0,90.0,100.0,7.0,77,84.0,45,32,15.0,31,1.0,9.0,12.0,-3.0,-0.43,,8.4,9.6,-1.2,-0.18,,
+Opponent Total,,,26.4,7,630.0,90.0,100.0,7.0,77,84.0,50,28,23.0,35,1.86,12.0,9.0,3.0,0.43,,9.6,8.4,1.2,0.18,,

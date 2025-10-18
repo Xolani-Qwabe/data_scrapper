@@ -1,0 +1,25 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,Unnamed: 21_level_0
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Joe Rodon,wls WAL,DF,27-361,7.0,0,0,0,4,6,0,0,8,3,0,0,0,17,24,17,58.5,Matches
+Pascal Struijk,nl NED,DF,26-068,7.0,0,0,0,6,2,1,0,2,4,0,0,0,18,13,14,48.1,Matches
+Jayden Bogle,eng ENG,DF,25-083,6.8,2,0,0,9,6,2,11,11,11,0,0,0,36,4,5,44.4,Matches
+Gabriel Gudmundsson,se SWE,DF,26-172,6.7,1,0,0,7,9,1,15,6,9,0,0,1,27,4,12,25.0,Matches
+Anton Stach,de GER,MF,26-337,6.7,1,0,0,11,10,0,18,3,8,0,1,0,25,8,3,72.7,Matches
+Sean Longstaff,eng ENG,MF,27-353,5.3,0,0,0,4,8,0,17,3,15,0,0,0,21,5,2,71.4,Matches
+Ethan Ampadu,wls WAL,MF,25-034,4.9,2,0,0,7,4,0,5,6,5,0,0,0,24,5,5,50.0,Matches
+Brenden Aaronson,us USA,FW,24-361,4.4,1,0,0,3,13,0,6,2,9,0,0,0,18,3,5,37.5,Matches
+Karl Darlow,wls WAL,GK,35-010,4.0,0,0,0,0,4,0,0,0,0,0,0,0,6,2,0,100.0,Matches
+Dominic Calvert-Lewin,eng ENG,FW,28-216,4.0,0,0,0,8,6,4,0,1,1,0,0,0,8,14,20,41.2,Matches
+Noah Okafor,ch SUI,FW,25-147,3.4,2,0,0,5,5,0,6,3,5,0,0,0,17,0,3,0.0,Matches
+Lucas Perri,br BRA,GK,27-312,3.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,100.0,Matches
+Daniel James,wls WAL,FW,27-342,2.4,0,0,0,0,4,0,12,0,1,0,0,0,7,1,0,100.0,Matches
+Wilfried Gnonto,it ITA,FW,21-347,2.1,1,0,0,1,0,0,4,2,7,0,0,0,6,0,3,0.0,Matches
+Ilia Gruev,bg BUL,MF,25-165,2.2,0,0,0,0,0,0,0,3,4,0,0,0,5,1,2,33.3,Matches
+Ao Tanaka,jp JPN,MF,27-038,2.0,0,0,0,2,2,0,2,3,1,0,0,0,10,2,4,33.3,Matches
+Joël Piroe,nl NED,"FW,MF",26-077,1.6,0,0,0,1,0,0,0,0,0,0,0,0,5,2,7,22.2,Matches
+Lukas Nmecha,de GER,FW,26-308,1.7,0,0,0,4,4,0,1,1,0,0,0,0,6,4,7,36.4,Matches
+Jack Harrison,eng ENG,"FW,DF",28-332,1.5,0,0,0,0,3,0,8,3,1,0,0,0,8,1,3,25.0,Matches
+James Justin,eng ENG,DF,27-237,0.2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0.0,Matches
+Sam Byram,eng ENG,DF,32-032,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Squad Total,,,27.0,7.0,10,0,0,73,86,8,105,57,84,0,1,1,272,95,113,45.7,
+Opponent Total,,,26.6,7.0,10,0,0,87,72,7,139,37,75,1,1,0,281,113,95,54.3,

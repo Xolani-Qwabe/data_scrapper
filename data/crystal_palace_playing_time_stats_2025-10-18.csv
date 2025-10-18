@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Starts,Starts,Starts,Subs,Subs,Subs,Team Success,Team Success,Team Success,Team Success,Team Success,Team Success,Team Success (xG),Team Success (xG),Team Success (xG),Team Success (xG),Team Success (xG),Unnamed: 26_level_0
+Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+Marc Guéhi,eng ENG,DF,25-097,7,630.0,90.0,100.0,7.0,7,90.0,7,0,,0,1.71,9.0,5.0,4.0,0.57,,12.7,8.7,4.0,0.57,,Matches
+Dean Henderson,eng ENG,GK,28-220,7,630.0,90.0,100.0,7.0,7,90.0,7,0,,0,1.71,9.0,5.0,4.0,0.57,,12.7,8.7,4.0,0.57,,Matches
+Maxence Lacroix,fr FRA,DF,25-195,7,630.0,90.0,100.0,7.0,7,90.0,7,0,,0,1.71,9.0,5.0,4.0,0.57,,12.7,8.7,4.0,0.57,,Matches
+Tyrick Mitchell,eng ENG,"DF,MF",26-047,7,630.0,90.0,100.0,7.0,7,90.0,7,0,,0,1.71,9.0,5.0,4.0,0.57,,12.7,8.7,4.0,0.57,,Matches
+Daniel Muñoz,co COL,"DF,MF",29-145,7,630.0,90.0,100.0,7.0,7,90.0,7,0,,0,1.71,9.0,5.0,4.0,0.57,,12.7,8.7,4.0,0.57,,Matches
+Chris Richards,us USA,DF,25-204,7,630.0,90.0,100.0,7.0,7,90.0,7,0,,0,1.71,9.0,5.0,4.0,0.57,,12.7,8.7,4.0,0.57,,Matches
+Jean-Philippe Mateta,fr FRA,FW,28-112,7,600.0,86.0,95.2,6.7,7,86.0,4,0,,0,1.71,9.0,3.0,6.0,0.9,6.9,12.0,6.9,5.1,0.76,4.07,Matches
+Adam Wharton,eng ENG,MF,21-254,6,451.0,75.0,71.6,5.0,6,75.0,2,0,,0,1.83,6.0,4.0,2.0,0.4,-0.61,8.9,6.4,2.5,0.49,-0.27,Matches
+Daichi Kamada,jp JPN,MF,29-074,5,435.0,87.0,69.0,4.8,5,87.0,2,0,,0,2.0,7.0,3.0,4.0,0.83,0.83,9.8,5.6,4.3,0.88,1.01,Matches
+Ismaila Sarr,sn SEN,"MF,FW",27-235,5,431.0,86.0,68.4,4.8,5,86.0,3,0,,0,1.6,6.0,2.0,4.0,0.84,0.84,7.4,6.4,1.0,0.2,-1.17,Matches
+Will Hughes,eng ENG,MF,30-184,6,412.0,69.0,65.4,4.6,5,77.0,2,1,29.0,1,2.0,5.0,3.0,2.0,0.44,-0.39,7.7,4.8,2.9,0.63,0.17,Matches
+Yeremi Pino,es ESP,MF,22-363,5,308.0,62.0,48.9,3.4,4,72.0,0,1,20.0,0,2.0,4.0,1.0,3.0,0.88,0.6,6.7,3.7,3.0,0.88,0.6,Matches
+Jefferson Lerma,co COL,MF,30-358,7,185.0,26.0,29.4,2.1,1,68.0,0,6,20.0,0,1.71,4.0,2.0,2.0,0.97,0.57,3.4,2.9,0.5,0.25,-0.46,Matches
+Justin Devenny,nir NIR,"MF,FW",22-007,7,149.0,21.0,23.7,1.7,1,65.0,0,6,14.0,0,1.71,3.0,3.0,0.0,0.0,-0.75,4.2,2.2,2.1,1.26,0.9,Matches
+Eberechi Eze,eng ENG,MF,27-111,1,83.0,83.0,13.2,0.9,1,83.0,0,0,,0,1.0,0.0,0.0,0.0,0.0,-0.66,0.6,1.2,-0.6,-0.6,-1.34,Matches
+Eddie Nketiah,eng ENG,"MF,FW",26-141,3,53.0,18.0,8.4,0.6,0,,0,3,18.0,0,2.0,1.0,3.0,-2.0,-3.4,-4.33,1.3,2.3,-1.0,-1.75,-2.53,Matches
+Romain Esse,eng ENG,FW,20-158,1,25.0,25.0,4.0,0.3,0,,0,1,25.0,3,1.0,0.0,0.0,0.0,0.0,-0.6,0.0,0.3,-0.3,-0.95,-1.58,Matches
+Christantus Uche,ng NGA,MF,22-152,2,10.0,5.0,1.6,0.1,0,,0,2,5.0,2,0.5,0.0,1.0,-1.0,-9.0,-9.73,0.7,0.7,0.0,0.41,-0.16,Matches
+Nathaniel Clyne,eng ENG,DF,34-196,1,5.0,5.0,0.8,0.1,0,,0,1,5.0,5,3.0,0.0,0.0,0.0,0.0,-0.58,0.4,0.0,0.4,6.9,6.39,Matches
+Odsonne Édouard,fr FRA,FW,27-275,1,3.0,3.0,0.5,0.0,0,,0,1,3.0,1,1.0,0.0,0.0,0.0,0.0,-0.57,0.0,0.3,-0.3,-7.92,-8.53,Matches
+Walter Benítez,ar ARG,GK,32-272,0,,,,,0,,0,0,,5,,,,,,,,,,,,Matches
+Jaydee Canvot,fr FRA,MF,19-081,0,,,,,0,,0,0,,4,,,,,,,,,,,,Matches
+Rio Cardines,tt TRI,MF,19-109,0,,,,,0,,0,0,,6,,,,,,,,,,,,Matches
+Remi Matthews,eng ENG,GK,31-250,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+Jesurun Rak Sakyi,eng ENG,"FW,MF",23-013,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+Kaden Rodney,eng ENG,"DF,MF",21-011,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+Borna Sosa,hr CRO,"DF,MF",27-270,0,,,,,0,,0,0,,7,,,,,,,,,,,,Matches
+Squad Total,,,26.8,7,630.0,90.0,100.0,7.0,77,86.0,55,22,16.0,41,1.71,9.0,5.0,4.0,0.57,,12.7,8.7,4.0,0.57,,
+Opponent Total,,,26.8,7,630.0,90.0,100.0,7.0,77,86.0,48,29,19.0,34,0.86,5.0,9.0,-4.0,-0.57,,8.7,12.7,-4.0,-0.57,,

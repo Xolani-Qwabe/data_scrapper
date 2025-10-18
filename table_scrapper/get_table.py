@@ -54,7 +54,7 @@ def html_table_to_df(html, table_name):
     filename = f"{table_name}_{current_date}.csv"
     # Check and save DataFrame to CSV
     if not df.empty:
-        df.to_csv(filename, index=False)
+        df.to_csv(f'./data/{filename}', index=False)
         print(f"Table successfully written to '{filename}'")
     else:
         print("DataFrame is empty — no data extracted.")
