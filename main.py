@@ -256,6 +256,96 @@ page_map = {
     },
     "https://fbref.com/en/comps/9/Premier-League-Stats": {
         "results2025-202691_overall": "premier_league_stats"
+    },
+    "https://fbref.com/en/comps/8/Champions-League-Stats":{
+        "results2025-202682_overall": "ucl_champions_league_overall_1",
+        "results2025-202680_overall": "ucl_champions_league_overall_2",
+    },
+    "https://fbref.com/en/comps/8/schedule/Champions-League-Scores-and-Fixtures":{
+        "sched_all":"ucl_champions_league_schedule"
+    },
+    "https://fbref.com/en/comps/8/stats/Champions-League-Stats":{
+        "stats_squads_standard":"ucl_squad_stats",
+        "stats_squads_standard_for":"ucl_squad_stats_for",
+        "stats_squads_standard_against":"ucl_squad_stats_against"
+    },
+    "https://fbref.com/en/comps/8/shooting/Champions-League-Stats":{
+        "stats_squad_shooting_for" : "ucl_stats_shooting_for",
+        "stats_squad_shooting_against" : "ucl_stats_shooting_against",
+        "stats_shooting": "ucl_shooting_stats"
+    },
+    "https://fbref.com/en/comps/8/passing/Champions-League-Stats":{
+        "stats_squads_passing_for": "ucl_stats_passing_for",
+        "stats_squads_passing_against": "ucl_stats_passing_against",
+        "stats_passing": "ucl_stats_passing"
+    },
+    "https://fbref.com/en/comps/8/gca/Champions-League-Stats":{
+        "stats_squads_gca_for", "ucl_stats_gca_for",
+        "stats_squads_gca_against", "ucl_stats_gca_against",
+        "stats_gca", "ucl_stats_gca",
+    },
+    "https://fbref.com/en/comps/8/defense/Champions-League-Stats":{
+        "stats_squads_defense_for": "ucl_stats_defense_for",
+        "stats_squads_defense_against": "ucl_stats_defense_against",
+         "stats_defense": "ucl_stats_defense"
+    },
+    "https://fbref.com/en/comps/8/possession/Champions-League-Stats":{
+        "stats_squads_possession_for":"ucl_stats_possession_for",
+        "stats_squads_possession_against":"ucl_stats_possession_against",
+        "stats_possession":"ucl_stats_possession",
+    },
+    "https://fbref.com/en/comps/8/misc/Champions-League-Stats":{
+        "stats_squads_misc_for": "ucl_stats_squads_misc_for", 
+        "stats_squads_misc_against": "ucl_stats_squads_misc_against",
+        "stats_misc": "ucl_stats_misc", 
+    },
+    "https://fbref.com/en/comps/8/playingtime/Champions-League-Stats":{
+        "stats_squads_playing_time_for": "ucl_stats_playing_time_for",
+        "stats_squads_playing_time_against": "ucl_stats_playing_time_against",
+        "stats_playing_time": "ucl_stats_playing_time",
+    },
+    "https://fbref.com/en/comps/8/keepers/Champions-League-Stats":{
+        "stats_squads_keeper_for": "ucl_stats_keeper_for",
+        "stats_squads_keeper_against": "ucl_stats_keeper_against",
+        "stats_keeper": "ucl_stats_keeper",
+    },
+    "https://fbref.com/en/comps/8/keepersadv/Champions-League-Stats":{
+        "stats_squads_keeper_adv_for": "ucl_stats_keeper_adv_for",
+        "stats_squads_keeper_adv_against": "ucl_stats_keeper_adv_against",
+        "stats_keeper_adv": "ucl_stats_keeper_adv",
+    },
+    "https://fbref.com/en/comps/19/Europa-League-Stats":{
+        "results2025-2026192_overall": "europa_overall_1",
+        "results2025-2026190_overall": "europa_overall_2",
+        
+    },
+    "https://fbref.com/en/comps/19/schedule/Europa-League-Scores-and-Fixtures":{
+        "sched_all":"europa_sched_all"
+    },
+    "https://fbref.com/en/comps/19/stats/Europa-League-Stats":{
+        "stats_squads_standard_for": "europa_stats_for",
+         "stats_squads_standard_against": "europa_stats_against",
+         "stats_standard": "europa_stats",
+    },
+    "https://fbref.com/en/comps/19/keepers/Europa-League-Stats":{
+        "stats_squads_keeper_for":"europa_stats_keeper_for",
+        "stats_squads_keeper_against":"europa_stats_keeper_against",
+        "stats_keeper":"europa_stats_keeper",
+    },
+    "https://fbref.com/en/comps/19/keepersadv/Europa-League-Stats":{
+        "stats_squads_keeper_adv_for": "europa_stats_squads_keeper_adv_for",
+        "stats_squads_keeper_adv_against": "europa_stats_squads_keeper_adv_against",
+        "stats_keeper_adv": "europa_stats_keeper_adv",
+    },
+    "https://fbref.com/en/comps/19/shooting/Europa-League-Stats":{
+        "stats_squad_shooting_for": "europa_stats_squad_shooting_for",
+        "stats_squad_shooting_against": "europa_stats_squad_shooting_against",
+        "stats_shooting": "europa_stats_shooting"
+    },
+    "https://fbref.com/en/comps/19/passing/Europa-League-Stats":{
+        "stats_squads_passing_for":"europa_passing_stats_for",
+        "stats_squads_passing_for":"europa_passing_stats_for",
+        "stats_passing":"europa_passing_stats",
     }
 }
 

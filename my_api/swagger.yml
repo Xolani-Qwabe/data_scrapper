@@ -1,0 +1,21 @@
+# swagger.yml
+
+openapi: 3.0.0
+info:
+  title: "Stats API"
+  description: "An API to Serve Soccer Stats To The Data Lake, Warehouse & Prediction Models "
+  version: "1.0.0"
+
+  servers:
+  - url: "/api"
+
+  paths:
+  /fixures:
+    get:
+      operationId: "fixtures.read_all"
+      tags:
+        - "Fixtures"
+      summary: "Read Up Coming Fixtures "
+      responses:
+        "200":
+          description: "Successfully read upcoming fixtures"
